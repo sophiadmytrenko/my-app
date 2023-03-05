@@ -39,3 +39,9 @@
 .photo{
   width: 40px;
 }
+button{
+  background-color: transparent;
+  color: #61dafb;
+  border: 3px solid #61dafb;
+  width: 90px;
+}

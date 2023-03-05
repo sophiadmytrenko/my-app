@@ -23,7 +23,7 @@ function App() {
                     </li>
                     <form class="navbar-text">
                         <input type="text" placeholder="Search"></input>
-                        <button variant="outline-info">Search</button>
+                        <button>Search</button>
                     </form>
                 </ul>
             </div>
